@@ -1,0 +1,24 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "Solution for the backend challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ugochukwu Oguejiofor",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.3.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^10.1.0",
+    "mongoose": "^6.8.0",
+    "supertest": "^6.3.2",
+    "swagger-jsdoc": "^6.2.5",
+    "swagger-ui-express": "^4.6.0"
+  }
+}
